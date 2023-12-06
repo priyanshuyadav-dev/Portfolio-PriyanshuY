@@ -1,5 +1,5 @@
 # Portfolio-PriyanshuY
-Explore my personal portfolio website showcasing my skills and projects. Built with HTML, CSS, and JavaScript.
+Explore my personal portfolio website showcasing my skills and projects. Built with HTML, CSS, and JavaScript. <br>
 contact- priyanshuyadav.dev@gmail.com
 
 Welcome to my personal portfolio repository! This project showcases my skills, experiences, and projects in a sleek and responsive website built using HTML, CSS, and JavaScript. This repository serves as a comprehensive overview of my journey, achievements, and the technologies I am proficient in.
